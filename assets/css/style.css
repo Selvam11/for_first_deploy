@@ -4,7 +4,6 @@
   box-sizing: border-box !important;
   transition: 0.5s !important;
   scroll-behavior: smooth;
-  /* border: 1px solid #000; */
 }
 
 html {
@@ -142,8 +141,6 @@ body {
   background: url(../images/solutionback.jpg);
   padding-top: 100px;
   padding-bottom: 150px;
-  /* heigth: 700px; */
-
 }
 
 #solution .container-size {
@@ -1025,26 +1022,6 @@ body {
   color: #0074FF;
 }
 
-/* #Clients .clienthead h4::before {
-  content: "";
-  display: inline-block;
-  background: #0074FF;
-  height: 2px;
-  width: 40%;
-  margin-right: 10px;
-  margin-bottom: 4px
-} */
-
-/* #Clients .clienthead h4::after {
-  content: "";
-  display: inline-block;
-  background: #0074FF;
-  height: 2px;
-  width: 40%;
-  margin-left: 10px;
-  margin-bottom: 4px;
-} */
-
 #Clients .clientowl {
   padding-top: 5 0px
 }
@@ -1206,7 +1183,6 @@ body {
 }
 
 .consultation span {
-  /* float: right; */
   display: inline-block;
   background: #0e5af2;
   padding: 10px 15px;
@@ -1734,18 +1710,3 @@ body {
     margin-bottom: 7px;
   }
 }
-
-/* /* ---- iphone XR max ---------- */
-@media only screen and (max-device-width: 414px) {}
-
-/* pixel 5  ----------- */
-@media only screen and (max-device-width: 393px) {}
-
-/* iPhone 12 pro ----------- */
-@media only screen and (max-device-width: 390px) {}
-
-/* iPhone 6, 7, 8 ----------- */
-@media only screen and (max-device-width: 375px) {}
-
-/* samsung galaxy  */
-@media only screen and (max-device-width: 360px) {}
